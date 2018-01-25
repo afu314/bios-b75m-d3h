@@ -1,5 +1,5 @@
-# coreboot-b75m-d3h
-For testing only. Coreboot files for GA-B75M-D3H.
+# bios-b75m-d3h
+For testing only. Bios/some coreboot files for GA-B75M-D3H.
 Rev 1.3 uses flash chips MX25L6406E/MX25L6408E.
 
 flashrom output:
